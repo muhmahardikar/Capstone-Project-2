@@ -10,6 +10,24 @@ NYC TLC menghadapi masalah signifikan terkait missing charges dalam transaksi ta
 - MTA tax ($0.50)
 - Congestion surcharge ($2.50)
 
+#### 1. Improvement Surcharge
+- Regulasi: NYC TLC Rules §58-26(a)(10)
+- Nominal: $0.30 per trip
+- Ketentuan: Wajib dikenakan pada SETIAP perjalanan taksi
+- Sumber: [NYC TLC Rules Chapter 58](https://www.nyc.gov/assets/tlc/downloads/pdf/rule_book_current_chapter_58.pdf)
+
+#### 2. MTA Tax
+- Regulasi: NYC Tax Law §1281(a)
+- Nominal: $0.50 per trip
+- Ketentuan: Wajib dikenakan pada SETIAP perjalanan taksi di wilayah NYC
+- Sumber: [NY State MTA Tax Memo](https://www.tax.ny.gov/pdf/memos/mta_mobility/m19-1mta.pdf)
+
+#### 3. Congestion Surcharge
+- Regulasi: NYC TLC Rules
+- Nominal: $2.50 per trip
+- Ketentuan: Wajib dikenakan untuk SETIAP pickup di Manhattan dibawah 96th Street
+- Sumber: [NYC TLC Congestion Surcharge FAQ](https://www.nyc.gov/assets/tlc/downloads/pdf/congestion_surcharge_faq.pdf)
+
 ## Key Findings
 1. Revenue Loss
    - Current Annual Loss: $1,366,324.52
